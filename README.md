@@ -1,3 +1,13 @@
+<div align="center">
+   <h1>Hi there, I'm Samarth </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   
+   
+   
+</div>
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Samarth Mishra | 💻 Full Stack Developer | 🛸 India  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
+
 # 💫 About Me:
 I'm currently working on backend heavy projects.<br>looking to connect with people with mern stack and devops .<br>Currently learning Next14 and working on my problem solving skill with DSA
 <img align="center" width="400" alt="Coding" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
