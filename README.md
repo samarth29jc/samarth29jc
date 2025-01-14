@@ -9,7 +9,7 @@
 </div>
 
 # 💫 About Me:
-I'm currently working on backend heavy projects.<br>looking to connect with people with mern stack and devops .<br>Currently learning Next14 and working on my problem solving skill with DSA
+I'm currently working on backend heavy projects.<br>looking to connect with people with mern stack and devops .<br>Currently learning React and working on my problem solving skill with DSA
 <img align="center" width="400" alt="Coding" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 
